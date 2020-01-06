@@ -101,3 +101,5 @@
     - a long and healthy life, 
     - knowledge and 
     - a decent standard of living. 
+
+#### Authored by: Roma Patel, Duyen Nguyen, Cesar Mosquera, Bill Bastan
